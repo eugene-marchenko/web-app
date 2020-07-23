@@ -4,12 +4,12 @@ Simple app that have [Fizz-Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) functi
 
 ## Requirements
 
-node 12
-docker
-minikube
-hyperkit
-kubectl
-bash
+- node 12
+- docker
+- minikube
+- hyperkit
+- kubectl
+- bash
 
 ##  Endpoints
 
@@ -21,7 +21,7 @@ Other non existing endpoints returns `404` status
 
 ## Ports
 
-Application performs on port 9999 locally
+Application performs on port `9999` locally
 
 ## Run on docker
 
