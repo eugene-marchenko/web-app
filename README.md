@@ -13,9 +13,9 @@ Simple app that have [Fizz-Buzz](https://en.wikipedia.org/wiki/Fizz_buzz) functi
 
 ##  Endpoints
 
-`/` - default endpoint provides main functionality
-`/app` - provides the same functionality as `/` but separate and on different endpoint
-`/test` - just test endpoint
+- `/` - default endpoint provides main functionality
+- `/app` - provides the same functionality as `/` but separate and on different endpoint
+- `/test` - just test endpoint
 
 Other non existing endpoints returns `404` status
 
